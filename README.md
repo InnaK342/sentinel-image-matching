@@ -79,7 +79,7 @@ This will:
 
 Below is an example of the output generated after performing inference on `image1.jp2` and `image2.jp2`. The result demonstrates the matched keypoints between the two images:
 
-![Result](results/result.png)
+![Result](results/result.jpg)
 
 ### 6. Additional Notes
 
