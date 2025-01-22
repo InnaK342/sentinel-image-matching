@@ -19,7 +19,7 @@ The repository is organized as follows:
 - **`.gitattributes`**: Git configuration file for handling file types.
 - **`README.md`**: Project documentation (this file).
 - **`requirements.txt`**: List of dependencies required to run the project.
-- - **`results/`**: Directory for storing test results and visualizations.
+- **`results/`**: Directory for storing test results and visualizations.
   - `result.jpg`: Output image showing matched keypoints between the input images.
 - **`Matching_Recommendation.pdf`**: PDF file containing recommendations for improving image matching performance.
 
