@@ -1,0 +1,7 @@
+torch==2.2.1
+kornia==0.8.0
+kornia_moons==0.2.9
+opencv-python>=4.10.0
+matplotlib>=3.4.2
+rasterio==1.4.3
+numpy==1.26.4
